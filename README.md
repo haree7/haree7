@@ -6,7 +6,6 @@ I'm a 3rd-year B.Tech Computer Science and Engineering student interested in **J
 
 Currently improving my skills in **Java, Spring Boot, REST APIs, SQL, and Data Structures & Algorithms** while actively looking for **remote internship opportunities**.
 
-## 🛠️ Tech Stack
 
 **Languages**
 - Java
@@ -24,7 +23,6 @@ Currently improving my skills in **Java, Spring Boot, REST APIs, SQL, and Data S
 **Backend & Database**
 - JDBC
 - MySQL
-- Spring Boot
 - REST APIs
 
 **Tools**
@@ -60,7 +58,7 @@ A web-based student management application with CRUD functionality.
 
 **Technologies:** Java, JSP, Servlets, JDBC, MySQL, HTML, CSS, Bootstrap
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Spring Boot
 - REST API Development
@@ -68,7 +66,7 @@ A web-based student management application with CRUD functionality.
 - Backend Development
 - Software Engineering Practices
 
-## 🎯 Career Goal
+## My Career Goal
 
 I'm looking to gain real-world software development experience through **internships and collaborative projects**, with a focus on Java backend development.
 
