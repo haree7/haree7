@@ -6,35 +6,40 @@ I'm a 3rd-year B.Tech Computer Science and Engineering student interested in **J
 
 Currently improving my skills in **Java, Spring Boot, REST APIs, SQL, and Data Structures & Algorithms** while actively looking for **remote internship opportunities**.
 
+---
 
-**Languages**
+## 🛠️ Technical Skills
+
+### Languages
 - Java
 - C++
 - SQL
 - JavaScript
 
-**Web Technologies**
+### Web Technologies
 - HTML
 - CSS
 - JSP
 - Servlets
 - Bootstrap
 
-**Backend & Database**
+### Backend & Database
 - JDBC
 - MySQL
 - REST APIs
 
-**Tools**
+### Tools
 - Git
 - GitHub
 - Eclipse
 - IntelliJ IDEA
 - Apache Tomcat
 
+---
+
 ## 🚀 Featured Projects
 
-### Leave Management System
+### 1. Leave Management System
 
 A web-based application for managing employee leave requests with different roles and permissions.
 
@@ -52,13 +57,27 @@ A web-based application for managing employee leave requests with different role
 
 🔗 [View Project](https://github.com/haree7/leave-management-system)
 
-### Student Management System
+---
 
-A web-based student management application with CRUD functionality.
+### 2. Student Management System
+
+A web-based application for managing student records with database integration.
 
 **Technologies:** Java, JSP, Servlets, JDBC, MySQL, HTML, CSS, Bootstrap
 
-## Currently Learning
+**Key Features:**
+- Add student records
+- View all students
+- Delete student records
+- MySQL database integration
+- JDBC connectivity
+- JSP and Servlet-based architecture
+
+🔗 [View Project](https://github.com/haree7/student-management-system)
+
+---
+
+## 📚 Currently Learning
 
 - Spring Boot
 - REST API Development
@@ -66,30 +85,21 @@ A web-based student management application with CRUD functionality.
 - Backend Development
 - Software Engineering Practices
 
-## My Career Goal
+---
 
-I'm looking to gain real-world software development experience through **internships and collaborative projects**, with a focus on Java backend development.
+## 🎯 Career Goal
+
+I'm looking to gain real-world software development experience through **internships and collaborative projects**, with a focus on **Java backend development**.
+
+My goal is to become a strong backend developer by continuously improving my programming, problem-solving, database, and software development skills.
+
+---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: Add your LinkedIn profile here
+- 💼 LinkedIn: **Add your LinkedIn profile here**
 - 💻 GitHub: [haree7](https://github.com/haree7)
 
 ---
 
 ⭐ Thanks for visiting my profile!
-
-<!--
-**haree7/haree7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
